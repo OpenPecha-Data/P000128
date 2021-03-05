@@ -1,4 +1,6 @@
-ebook_metadata:
+id: P000128
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དབུ་རྫོགས་ལྟ་མགུར་ཟབ་མོ་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ།
@@ -11,7 +13,6 @@ ebook_metadata:
   - ་བཅད། ༧མཁན་ཆེན་གང་ཤར་དབང་པོ།
   - ཛད་པ་པོ། ༧མཁན་ཆེན་གང་ཤར་དབང་པོ།
   - ུས་དམན་དགེ་འདུན་ནས་བསྒྲིགས།
-  sku: TSD-KG-02
   layers:
   - book_title
   - author
@@ -20,6 +21,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: TSD-KG-02
 web_metadata:
   title:
     en: A Commentary on the Profound Spiritual Songs of the Middle Way and Dzogchen
